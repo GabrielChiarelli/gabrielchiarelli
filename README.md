@@ -1,12 +1,12 @@
 ### Eae, blz?! Eu sou o Gabriel Chiarelli
 
-- 🔭 Hoje trabalho com Desenvolvimento de Jogos
+<!-- - 🔭 Hoje trabalho com Desenvolvimento de Jogos
 - 🌱 Estudando Python/HTML/CSS/JavaScript
 - 📫 Contate-me no email: contato.gabriel.dev@gmail.com
 - 😄 Pronouns: ele/dele
-- ⚡ Eu AMO As Crônicas de Nárnia
+- ⚡ Eu AMO As Crônicas de Nárnia -->
 
-<div align="center">
+<div align="left"> <!-- trocar para "center" quando as curiosidades estiverem ativadas -->
   <a href="https://github.com/gabrielchiarelli">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielchiarelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielchiarelli&layout=compact&langs_count=7&theme=dracula"/>
